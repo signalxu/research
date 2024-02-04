@@ -1,6 +1,6 @@
 ---
 titel: Research on RPIP-13
-discussion: 
+discussion: https://dao.rocketpool.net/t/some-thoughts-about-rpip-13/2688/1
 ---
 
 # Background
