@@ -1,6 +1,6 @@
 ---
-titel: Research on improving Node Operator supply strategy and performance
-discussion: https://dao.rocketpool.net/t/some-thoughts-about-rpip-13/2688/1
+titel: Integrating Eigenlayer through the CL
+discussion: https://dao.rocketpool.net/t/integrating-eigenlayer-through-the-cl/2734
 ---
 
 # Background
